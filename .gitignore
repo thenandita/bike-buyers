@@ -202,6 +202,9 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Microsoft Office / Excel temporary lock files
+~$*
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
