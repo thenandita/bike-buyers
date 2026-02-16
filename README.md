@@ -1,5 +1,9 @@
 # bike-buyers
 
+## Dashboard
+
+![dashboard.png](assets/dashboard.png)
+
 ## Resources
 
 - Tutorial: [Full Project in Excel | Excel Tutorials for Beginners by Alex The Analyst
