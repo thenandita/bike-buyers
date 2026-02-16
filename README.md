@@ -1,5 +1,9 @@
 # bike-buyers
 
+## Graphs
+
+![graphs.png](assets/graphs.png)
+
 ## Dashboard
 
 ![dashboard.png](assets/dashboard.png)
