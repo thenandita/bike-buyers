@@ -14,7 +14,7 @@ The goal was to find patterns between customer attributes (income, gender, age, 
 
 **Source:** [Excel Project Dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) (Alex The Analyst - Excel Tutorial)
 
-**File in repo:** `excel-project-dataset.xlsx`
+**File in repo:** [excel-project-dataset.xlsx](excel-project-dataset.xlsx)
 
 | Column             | Description                                                                        |
 |--------------------|------------------------------------------------------------------------------------|
